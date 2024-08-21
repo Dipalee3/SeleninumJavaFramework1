@@ -3,12 +3,7 @@ package TestNG;
 import org.testng.annotations.Test;
 
 public class Example1 {
-     @Test
-     public void test1()
-     {
-    	 System.out.println("Running test 1");
-     }
-     
+    
      @Test
      public void test2()
      {
